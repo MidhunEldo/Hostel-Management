@@ -1,5 +1,5 @@
 import { commonAPI } from "./commonAPI"
-import { serverURL } from "./serverURL"
+const serverURL = "http://localhost:4000" // your server address
 
 // uploading hosteller
 export const uploadHosteller=async (body)=>{

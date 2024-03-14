@@ -1,1 +1,0 @@
-export const serverURL="https://hostel-server-na1q.onrender.com";
